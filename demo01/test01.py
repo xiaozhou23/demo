@@ -27,6 +27,7 @@ print(sam.age)
 # 调用类函数，没有参数传入
 sam.doHomework()
 
+print("test")
 print(StudentPython.__dict__)
 
 print(sam.__dict__)
