@@ -1,0 +1,18 @@
+import queue
+q = queue.Queue(5)
+q.put(10)
+q.put(20)
+q.put(30)
+q.put(40)
+print(q.get())
+q.task_done()
+print(q.get())
+q.task_done()
+print(q.full())
+print(q.empty())
+q.task_done()
+q.task_done()
+print(q.empty())
+#q.join()
+
+print("ending!")

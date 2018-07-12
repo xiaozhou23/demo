@@ -1,0 +1,4 @@
+2018-06-18 11:19:57,226 - ERROR - py02.py[:21] - error message
+2018-06-18 11:19:57,226 - CRITICAL - py02.py[:22] - critical message
+2018-06-24 11:02:43,332 - ERROR - py02.py[:21] - error message
+2018-06-24 11:02:43,332 - CRITICAL - py02.py[:22] - critical message

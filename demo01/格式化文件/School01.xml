@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<School>
+    <Classroom id="001" xmlns:student="student" xmlns:teacher="teacher">
+        <student:Name>lily</student:Name>
+        <Age>18</Age>
+        <Gender>male</Gender>
+        <teacher:Name>paul</teacher:Name>
+        <Course>python</Course>
+    </Classroom>
+    <!-- This is a xml simple -->
+</School>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<School type="University">
+    <Student id="001">
+        <Name>lily</Name>
+        <Age>18</Age>
+        <Gender>male</Gender>
+        <Name>2018</Name>
+    </Student>
+    <Student id="002">
+        <Name>sam</Name>
+        <Age>20</Age>
+        <Score>score&gt;10</Score>
+        <![CDATA[
+       SELECT * FROM DULA;
+       ]]>
+    </Student>
+    <Teacher id="001">
+        <Name>paul</Name>
+        <Course>python</Course>
+        <Age detail="It's a secret">35</Age>
+    </Teacher>
+    <!-- This is a xml simple -->
+</School>

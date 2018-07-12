@@ -1,0 +1,40 @@
+2018-06-18 10:31:39,110%(message)s
+2018-06-18 10:31:39,110%(message)s
+2018-06-18 10:31:39,110%(message)s
+2018-06-18 10:31:39,110%(message)s
+2018-06-18 10:31:39,110%(message)s
+2018-06-18 10:32:22,091%(message)s
+2018-06-18 10:32:22,091%(message)s
+2018-06-18 10:32:22,091%(message)s
+2018-06-18 10:32:22,091%(message)s
+2018-06-18 10:32:22,091%(message)s
+2018-06-18 10:33:11,244DEBUGThis is a debug logs.
+2018-06-18 10:33:11,244INFOThis is a info logs.
+2018-06-18 10:33:11,244WARNINGThis is a warning log.
+2018-06-18 10:33:11,244ERRORThis is a error log.
+2018-06-18 10:33:11,244CRITICALThis is a critical log.
+2018-06-18 10:33:36,144-DEBUG-This is a debug logs.
+2018-06-18 10:33:36,144-INFO-This is a info logs.
+2018-06-18 10:33:36,144-WARNING-This is a warning log.
+2018-06-18 10:33:36,144-ERROR-This is a error log.
+2018-06-18 10:33:36,144-CRITICAL-This is a critical log.
+2018-06-18 10:35:26,058-DEBUG-This is a debug logs.
+2018-06-18 10:35:26,058-INFO-This is a info logs.
+2018-06-18 10:35:26,058-WARNING-This is a warning log.
+2018-06-18 10:35:26,058-ERROR-This is a error log.
+2018-06-18 10:35:26,058-CRITICAL-This is a critical log.
+06182018 104207-DEBUG-This is a debug logs.
+06182018 104207-INFO-This is a info logs.
+06182018 104207-WARNING-This is a warning log.
+06182018 104207-ERROR-This is a error log.
+06182018 104207-CRITICAL-This is a critical log.
+06-18-2018 10:42:48-DEBUG-This is a debug logs.
+06-18-2018 10:42:48-INFO-This is a info logs.
+06-18-2018 10:42:48-WARNING-This is a warning log.
+06-18-2018 10:42:48-ERROR-This is a error log.
+06-18-2018 10:42:48-CRITICAL-This is a critical log.
+06-18-2018 AM 10:43:22-DEBUG-This is a debug logs.
+06-18-2018 AM 10:43:22-INFO-This is a info logs.
+06-18-2018 AM 10:43:22-WARNING-This is a warning log.
+06-18-2018 AM 10:43:22-ERROR-This is a error log.
+06-18-2018 AM 10:43:22-CRITICAL-This is a critical log.

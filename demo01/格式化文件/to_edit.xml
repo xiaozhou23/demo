@@ -1,0 +1,20 @@
+<School type="University">
+    <Student id="001">
+        <Name test="lilylily">lily</Name>
+        <Age test="1818">18</Age>
+        <Gender>male</Gender>
+        <Name1 test="20182018">2018</Name1>
+        <Addr a="b">address</Addr>
+    <Addr a="b">address</Addr></Student>
+    <Student id="002">
+        <Name test="samsam">sam</Name>
+        <Age test="2020">20</Age>
+        <Score>score&gt;10</Score>
+    </Student>
+    <Teacher id="001">
+        <Name>paul</Name>
+        <Course>python</Course>
+        <Age detail="It's a secret">35</Age>
+    </Teacher>
+    
+</School>
